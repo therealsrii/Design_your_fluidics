@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+trimesh[easy]
+numpy-stl
+mph
